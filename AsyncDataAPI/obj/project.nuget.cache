@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2SIIXNFMyuY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maris\\Day17_Async_Await_demo_API\\AsyncDataAPI\\AsyncDataAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maris\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\maris\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
